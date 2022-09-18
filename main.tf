@@ -15,6 +15,6 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name     = "myTFrg"
+  name     = "myTFrg11"
   location = "westus"
 }
